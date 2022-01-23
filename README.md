@@ -1,9 +1,9 @@
 Collection of my reading and writing on humanity topic.
 ## Foreign languages
-* [Latin](./latin_words)
+* [Latin](../latin_words)
 
 ## Other platforms
-* [中文维基教科书-俄语](https://zh.wikibooks.org/wiki/俄语/)
+* [中文维基教科书-俄语](https://zh.wikibooks.org/wiki/俄语)
 * [中文维基教科书-德语](https://zh.wikibooks.org/wiki/德语)
 
 ## Third party
