@@ -1,6 +1,19 @@
 Collection of my reading and writing on humanity topic.
+
 ## Foreign languages
-* [Latin](../latin_words)
+* Latin
+* Russian
+* German
+* Japanese
+* Others (english-starter)
+
+## Reading
+* Chinese History
+* Chinese Literature and literary Chinese language （中国文学和文言文）
+* Others (reading notes)
+
+## Entertainment
+
 
 ## Other platforms
 * [中文维基教科书-俄语](https://zh.wikibooks.org/wiki/俄语)
