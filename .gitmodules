@@ -1,0 +1,27 @@
+[submodule "reading-notes"]
+	path = reading-notes
+	url = git@github.com:zhaofeng-shu33/reading-notes.git
+[submodule "english-starter"]
+	path = english-starter
+	url = git@github.com:zhaofeng-shu33/english-starter.git
+[submodule "latin_words"]
+	path = latin_words
+	url = git@github.com:zhaofeng-shu33/latin_words.git
+[submodule "chinese_literature_toc"]
+	path = chinese_literature_toc
+	url = git@github.com:zhaofeng-shu33/chinese_literature_toc.git
+[submodule "boctok-russian-words"]
+	path = boctok-russian-words
+	url = git@github.com:zhaofeng-shu33/boctok-russian-words.git
+[submodule "japanese-new-century"]
+	path = japanese-new-century
+	url = git@github.com:zhaofeng-shu33/japanese-new-century.git
+[submodule "DeutschLernenMittel"]
+	path = DeutschLernenMittel
+	url = git@github.com:zhaofeng-shu33/DeutschLernenMittel.git
+[submodule "entertainment"]
+	path = entertainment
+	url = git@github.com:zhaofeng-shu33/entertainment.git
+[submodule "chinese_history"]
+	path = chinese_history
+	url = git@github.com:zhaofeng-shu33/chinese_history.git
